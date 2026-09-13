@@ -54,14 +54,14 @@ Model 3 achieved the best overall performance among the four selected configurat
 
 ```text
 ├── notebooks/
-│   ├── model_01_experiment.html
-│   ├── model_02_experiment.html
-│   ├── model_03_experiment.html
-│   └── model_04_experiment.html
+│   ├── CNN_odev18_multilabel_colab_2_manual_threshold (1).html  # Model 1
+│   ├── CNN_odev21_multilabel_colab_2_manual_threshold_ (1).html # Model 2
+│   ├── CNN_odev22_multilabel_colab_2_manual_threshold (1).html  # Model 3
+│   └── CNN_odev23_multilabel_colab_2_manual_threshold (1).html  # Model 4
 │
 ├── presentation/
-│   ├── CNN_Eye_Disease_Diagnosis.pptx
-│   └── CNN_Eye_Disease_Diagnosis.pdf
+│   ├── CNN ile Göz Hastalıkları Teşhisi son.pptx
+│   └── CNN ile Göz Hastalıkları Teşhisi son.pdf
 │
 └── README.md
 ```
